@@ -1,5 +1,6 @@
 # Ermia (Codev) Moghadamy (ارمیا مقدمی)
 ## Programmer, Fullstack Web/App Developer, SysAdmin & DevOps and Machine Learning Engineer
+## ارمیا مقدمی برنامه نویس, توسعه دهنده وب, دوآپس و سیستم ادمین 
 
 ## Open to work or project
 
