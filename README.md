@@ -1,5 +1,5 @@
-# Ermia M.
-## Web Developer, SysAdmin & DevOps
+# Ermia (Codev) Moghadamy (ارمیا مقدمی)
+## Programmer, Fullstack Web/App Developer, SysAdmin & DevOps and Machine Learning Engineer
 
 ## Open to work or project
 
