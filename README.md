@@ -1,8 +1,6 @@
 # Ermia Moghadamy
 ## <a href="https://ErmiaCodev.github.io">Ermia Codev</a>
-## Programmer, Fullstack Web/App Developer, SysAdmin & DevOps and Machine Learning Engineer
-
-## Open to work or project
+## Programmer, Fullstack Web/App Developer, SysAdmin & DevOps and Machine Learning Engineer, Official `ITVTO` Educator
 
 <div align="center">
   <a href="resume.pdf" align="center">
