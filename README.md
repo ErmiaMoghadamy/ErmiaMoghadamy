@@ -1,6 +1,7 @@
 # Ermia Moghadamy
-## <a href="https://ErmiaCodev.github.io">Ermia Codev</a>
-## Programmer, Data Scientist, Fullstack Web/App Developer, , Official `ITVTO` Educator
+## <a href="https://ermia-moghadamy.ir">Ermia M. Website</a>
+## <a href="https://ermia-codev.is-a.dev">Ermia Codev Website</a>
+## Programmer, Data Scientist, Fullstack Web/App Developer, Official `ITVTO` Educator
 
 <div align="center">
   <a href="resume.pdf" align="center">
