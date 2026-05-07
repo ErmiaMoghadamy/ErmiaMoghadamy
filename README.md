@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm Ermia M. (Codev)<br>Software Engineer, DataScientist & SysAdmin. <br/> SUT Student.
-- 🔭 I’m currently working on ML Project
+- 🔭 I’m currently working on GenGE
 - 🌱 I’m currently learning Graphcics Programming
 - 📫 How to reach me: ermia.dev.official@gmail.com
 
