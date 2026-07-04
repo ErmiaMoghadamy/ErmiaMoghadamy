@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Ermia M. (Codev)<br>Software Engineer | Graphics Programmer | DataScientist | Instructor <br/> SUT Student.
+I'm Ermia M. (Codev)<br>Software Engineer | Graphics Programmer | Instructor <br/> SUT Student.
 - 🔭 I’m currently working on GenGE
 - 🌱 I’m currently learning Graphcics Programming, ML Engineering
 - 📫 How to reach me: ermia.arc@gmail.com
